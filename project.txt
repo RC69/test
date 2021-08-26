@@ -2,6 +2,7 @@
   - created the repository
   - ==git== clone
   - created this file
+  - commit this file
 
 # To do
   - commit this file
